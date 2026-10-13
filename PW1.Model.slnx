@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ConsoleApp1/PW1.Console.csproj" />
+  <Project Path="PW1.Model/PW1.Model.csproj" />
+  <Project Path="PW1.WinForms/PW1.WinForms.csproj" />
+</Solution>
